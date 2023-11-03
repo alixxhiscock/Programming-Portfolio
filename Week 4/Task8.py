@@ -16,6 +16,6 @@ print(f"Mean is {numpy.mean(temps)}")
 print(f"Max is {numpy.max(temps)}")
 print(f"Min is {numpy.min(temps)}")
 
-#Not working for some reason as not catching null value
-#Making it go into for loop where operation's can't be performed on null value
-#Will try fix ASAP
+# Not working for some reason as not catching null value
+# Making it go into for loop where operation's can't be performed on null value
+# Will try fix ASAP
